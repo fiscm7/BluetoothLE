@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BluetoothLE</string>
+    <string name="title_producer">Bluetooth LE Tool Producer</string>
+    <string name="title_consumer">Bluetooth LE Tool Consumer</string>
+    <string name="button_enable">Enable</string>
+    <string name="button_disable">Disable</string>
+    <string name="your_message">Write your message here: (max. 23 characters)</string>
+    <string name="your_message_here">Your message comes here.</string>
+    <string name="receiver">Receiver</string>
+    <string name="send">Send</string>
+</resources>
